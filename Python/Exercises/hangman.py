@@ -1,3 +1,5 @@
+#working
+#CLEAN THIS SHIT UP!!!
 import random
 while True:
     wordlong=["hippopotamus", "simulation", "compilator", "programming", "excitement", "daredevil"]
