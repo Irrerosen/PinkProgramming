@@ -16,12 +16,12 @@ for i in range(0,len(numbers)):
         j=0
     if (numbers[i]) == (numbers[j]):
         total.append(numbers[i])
-        print(i)
-        print(total)
+        #print(i)
+        #print(total)
 
     else:
-        total.append(0)
-        print(i)
+        #total.append(0)
+        #print(i)
         print(total)
 
 
