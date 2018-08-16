@@ -10,8 +10,8 @@ numbers= list(map(int, (list(data.split(' ')))))
 
 for i in range(0,len(numbers)):
     j=i+1
-    print(len(numbers))
-    print(j)
+    #print(len(numbers))
+    #print(j)
     if j >= len(numbers):
         j=0
     if (numbers[i]) == (numbers[j]):
