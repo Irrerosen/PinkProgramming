@@ -1,4 +1,9 @@
 #
+# TO-DO: print index of letter
+# TO-DO: make version using enumerate
+#
+
+#
 # Get input from user, lower ensures that comparison is fair
 #
 
@@ -65,8 +70,9 @@ while len(checkword) >=1:
 
     else:
         print ("The letter {} is the first unique letter in this word".format(storage))
-        break
         state = 1
+        break
+
 #
 # If we reach this code, there are no unique letters in the word
 #
