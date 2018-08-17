@@ -1,30 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Turtle.py" line="8" mnemonic="7" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="35713f4d-9b84-482b-a933-fe63435e7e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adventofcode1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basecalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calldog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catnames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celebration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dltocup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hobbies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexalgorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mansort4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raincheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 2/finduniquw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3/Turtlecircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3/daystosec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3/passwordgen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks 3/read_from_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 2/findunique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 2/findunique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/counthelp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/countrec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/findunique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/fortunatly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/hangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/mealtip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/rovarsprak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/sizerec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/sizeswap.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adventofcode1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basecalc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calldog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catnames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/celebration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dltocup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fcgame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobbies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexalgorithm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexpractice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mansort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mansort2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mansort2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mansort3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mansort4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printrange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raincheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,31 +69,59 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="indexpractice" value="1" />
-          <entry key="py" value="34" />
+          <entry key="py" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="34" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="indexpractice" value="204" />
-          <entry key="py" value="21003" />
+          <entry key="py" value="28034" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="74" />
-          <entry key="Python" value="21133" />
+          <entry key="Python" value="28164" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises 2/finduniquw2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises 3/Turtlecircle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises 1/Turtle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,25 +169,48 @@
         <option value="$PROJECT_DIR$/Exercises/rovarsprak.py" />
         <option value="$PROJECT_DIR$/Exercises/hangman.py" />
         <option value="$PROJECT_DIR$/Exercises/findunique.py" />
+        <option value="$PROJECT_DIR$/Tasks 3/read_from_csv.py" />
+        <option value="$PROJECT_DIR$/Exercises 2/findunique.py" />
+        <option value="$PROJECT_DIR$/Exercises 2/finduniquw2.py" />
+        <option value="$PROJECT_DIR$/Exercises 3/daystosec.py" />
+        <option value="$PROJECT_DIR$/Exercises 3/passwordgen.py" />
+        <option value="$PROJECT_DIR$/Exercises 3/Turtlecircle.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="784" />
-    <option name="height" value="1342" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dltocup.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tasks 3/read_from_csv.py" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hanna\Documents\PinkProgramming\Python" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hangman">
-    <configuration name="countrec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Turtlecircle">
+    <configuration name="Turtlecircle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/countrec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises 3/Turtlecircle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="daystosec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +254,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/hangman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises 3/daystosec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rovarsprak" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="findunique" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/rovarsprak.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises 2/findunique.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sizerec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="finduniquw2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +296,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/sizerec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises 2/finduniquw2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sizeswap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="passwordgen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +317,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/sizeswap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises 3/passwordgen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,19 +331,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.countrec" />
-      <item itemvalue="Python.sizeswap" />
-      <item itemvalue="Python.sizerec" />
-      <item itemvalue="Python.rovarsprak" />
-      <item itemvalue="Python.hangman" />
+      <item itemvalue="Python.findunique" />
+      <item itemvalue="Python.finduniquw2" />
+      <item itemvalue="Python.daystosec" />
+      <item itemvalue="Python.passwordgen" />
+      <item itemvalue="Python.Turtlecircle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.rovarsprak" />
-        <item itemvalue="Python.sizerec" />
-        <item itemvalue="Python.sizeswap" />
-        <item itemvalue="Python.countrec" />
+        <item itemvalue="Python.Turtlecircle" />
+        <item itemvalue="Python.passwordgen" />
+        <item itemvalue="Python.daystosec" />
+        <item itemvalue="Python.finduniquw2" />
+        <item itemvalue="Python.findunique" />
       </list>
     </recent_temporary>
   </component>
@@ -287,10 +361,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.50967264" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -298,7 +373,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3344426" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -535,6 +610,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 3/passwordgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 3/daystosec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 2/findunique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 1/Turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 3/Turtlecircle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasks 3/read_from_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises 2/finduniquw2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
