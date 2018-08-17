@@ -1,0 +1,1 @@
+storage=string[0]
