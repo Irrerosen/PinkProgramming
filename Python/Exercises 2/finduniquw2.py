@@ -6,10 +6,12 @@
 #
 # Get input from user, lower ensures that comparison is fair
 #
-
-wordinput=input("Please input a word ").lower()
-
-
+while True:
+    wordinput=input("Please input a word ").lower()
+    if wordinput=="":
+        print("That is not a word")
+    else:
+        break
 #
 # Create starting parameters
 #
@@ -45,6 +47,8 @@ while len(checkword) >=1:
         if len(checkword) == 1:
             storage=checkword[0]
             print ("The letter {} is the first unique letter in this word".format(storage))
+            letterindex = wordinput.index(storage)
+            print("Index of letter is {}".format(letterindex))
             state = 1
             break
 
@@ -69,6 +73,8 @@ while len(checkword) >=1:
     #
 
     else:
+        letterindex=wordinput.index(storage)
+        print("Index of letter is {}".format(letterindex))
         print ("The letter {} is the first unique letter in this word".format(storage))
         state = 1
         break
